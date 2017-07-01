@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
+Example of an angular cli project using jest.
+
+Please read for context:
+
+- https://github.com/thymikee/jest-preset-angular
+- https://www.xfive.co/blog/testing-angular-faster-jest/
+- https://www.jstwister.com/post/debugging-jest-with-vscode/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
